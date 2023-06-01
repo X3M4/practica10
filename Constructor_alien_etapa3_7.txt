@@ -1,0 +1,5 @@
+    public Alien(Escenario e){
+        super(e);
+        setSpriteNombre(new String[] {"extra0.gif", "extra1.gif", "jose_maria_fernandez.gif"});
+        setFrameVelocidad(35);
+    }
